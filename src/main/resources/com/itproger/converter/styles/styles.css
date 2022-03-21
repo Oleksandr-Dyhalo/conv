@@ -1,0 +1,9 @@
+.btnActive:hover {
+    -fx-border-color:  #3d3d3d!important;
+    -fx-background-color: #ebebeb!important;
+    -fx-text-fill: #3d3d3d!important;
+}
+
+.btnOnClick:pressed {
+    -fx-background-color: #ebebeb!important;
+}
